@@ -4,6 +4,11 @@
 Привет! Меня зовут Вадим, я начинающий тестировщик. 
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 
+Навыки и технологии
+
+Jira,qase.io,SQL, Postman,Fiddler, Swagger, Trello, 
+SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
+
 Проекты
 
 Проект 1: тест веб-приложения для учителей от Skyeng
@@ -55,6 +60,17 @@ vadimchmutin98@gmail.com
 
 Отчет о тестировании - https://report-vadim.atlassian.net/l/cp/7sdZt2s8
 
+
+SQL
+
+Даны таблицы, содержащие в себе информацию о студентах, преподавателях и тд
+В предоставленных документах описаны задачи и их решения:
+
+https://docs.google.com/document/d/14p3THyivvOdnoCZ4gqS6i3uHdDOgT3wtmjpZKK8CQOc/edit
+
+https://docs.google.com/document/d/1aP8ZUMx84lslJAVlSLH9H7nQXdqla_USXCBeukUOOVo/edit
+
+https://docs.google.com/document/d/10_3DzSPFQpZH2ywtoV5RFlzDLySRvTVrlYpbquEVrdo/edit?hl=ru
 
 
 Email: vadimtchmutin@yandex.ru
