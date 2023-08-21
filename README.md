@@ -1,85 +1,8 @@
-Портфолио: инженер по тестированию
-Обо мне
-
-Привет! Меня зовут Вадим, я начинающий тестировщик. 
-В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
-
-Навыки и технологии
-
-Jira,qase.io,SQL, Postman,Fiddler, Swagger, Trello, 
-SoapUI, Android Studio, xCode, Charles, Git, Chrome DevTools.
-
-Проекты
-
-Проект 1: тест веб-приложения для учителей от Skyeng
-
-Что нужно было сделать:
-Необходимо провести тестирование календаря
-Продукт: Календарь. Личные события
-Заказчик: Sky-pro
-Сайт: https://teachers.skyeng.ru/schedule
-Тестирование возможности добавления, удаления и редактирования преподавателем личных событий
-Основные требования (главная user story) : 
-Преподаватель может использовать личные события для собственных встреч.
-Они служат напоминанием, что у преподавателя что-то запланировано на это время
-Преподаватели смогут:
-создавать личные события
-удалять личные события
-редактировать личные события
-назначать цвет, время, описание, название события
-Все требования можно посмотреть по ссылке: Документация к проекту 
-Будут проведены следующие виды тестирования:
-Функциональное (на уровне системы, интеграции, компонентов)
-
-Как решала(-а): краткое описание решения (автореферат)
-Тестирование проводилось
-Функциональное 
-Чек-лист: https://chlist.sitechco.ru/project/40778/checklist/1447598/details
-Приемочное тестирование
-Тест-кейс: https://app.qase.io/project/CW
-Smoke-тестирование
-Тест-кейс: https://app.qase.io/project/CW
-Тестирование API : https://drive.google.com/file/d/1IpGvoadZqjxRBD_Hw3Ra-4ZvWRXDq562/view?usp=sharing
-
-
-Ссылка на проект: https://drive.google.com/file/d/1fnFNRd53ymWRkVKAQjyL7xVeXkBrF-Bs/view?usp=sharing
-
-Данные для входа во все сервисы
-Логин:
-vadimchmutin98@gmail.com
-пароль: 7058042401
-
-
-Чек-листы https://chlist.sitechco.ru/project/41707/checklist/1469676/details
-
-Тест-кейсы https://app.qase.io/project/CW
-
-Баг-репорты https://report-vadim.atlassian.net/jira/software/c/projects/JF1/issues
-
-Тест план - https://report-vadim.atlassian.net/l/cp/H0dQ71gc
-
-Отчет о тестировании - https://report-vadim.atlassian.net/l/cp/7sdZt2s8
-
-
-SQL
-
-Даны таблицы, содержащие в себе информацию о студентах, преподавателях и тд
-В предоставленных документах описаны задачи и их решения:
-
-https://docs.google.com/document/d/14p3THyivvOdnoCZ4gqS6i3uHdDOgT3wtmjpZKK8CQOc/edit
-
-https://docs.google.com/document/d/1aP8ZUMx84lslJAVlSLH9H7nQXdqla_USXCBeukUOOVo/edit
-
-https://docs.google.com/document/d/10_3DzSPFQpZH2ywtoV5RFlzDLySRvTVrlYpbquEVrdo/edit?hl=ru
-
-
-Email: vadimtchmutin@yandex.ru
-
 # Портфолио: инженер по тестированию
 
 ## Обо мне 
 
-Привет! Меня зовут ``{name}``, я начинающий тестировщик. <br>
+Привет! Меня зовут ``{Вадим}``, я начинающий тестировщик. <br>
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 <br>
 
@@ -105,89 +28,52 @@ Email: vadimtchmutin@yandex.ru
 
 <p>Как решала(-а): краткое описание решения (автореферат)<p>
 
-> <a href="https://testqa35.atlassian.net/wiki/spaces/MP/pages/33272/EX1+1">Ссылка на проект</a>
-   (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
-> <p> логин: dehico8286@fsouda.com </p>
-> <p> пароль: 16Jan2023 </p>
+>Тестирование проводилось
+Функциональное 
+Чек-лист: https://chlist.sitechco.ru/project/40778/checklist/1447598/details
+Приемочное тестирование
+Тест-кейс: https://app.qase.io/project/CW
+Smoke-тестирование
+Тест-кейс: https://app.qase.io/project/CW
+Тестирование API :<a href=" https://drive.google.com/file/d/1IpGvoadZqjxRBD_Hw3Ra-4ZvWRXDq562/view?usp=sharing"></a>
+> <a href="https://drive.google.com/file/d/1fnFNRd53ymWRkVKAQjyL7xVeXkBrF-Bs/view?usp=sharing)">Ссылка на проект</a>
+
+> <p> логин: vadimchmutin98@gmail.com </p>
+> <p> пароль: 7058042401 </p>
 
 <p>Выводы (итоги):<p>
 <ol>
-  <li>Итог №1</li>
-  <li>Итог №2</li>
+  <li>Чек-листы https://chlist.sitechco.ru/project/41707/checklist/1469676/details</li>
+  <li>Баг-репорты https://report-vadim.atlassian.net/jira/software/c/projects/JF1/issues</li>
+   <li>Тест план - https://report-vadim.atlassian.net/l/cp/H0dQ71gc</li>
+    <li>Отчет о тестировании - https://report-vadim.atlassian.net/l/cp/7sdZt2s8</li>
 </ol>
 <br> 
 
 <br> 
 
-<p> Проект 2: тест кабинета учителя в приложении Skyeng</p>
-<p>Что нужно было сделать:<p>
+
+SQL
+
+Даны таблицы, содержащие в себе информацию о студентах, преподавателях и тд
+В предоставленных документах описаны задачи и их решения:
+
+https://docs.google.com/document/d/14p3THyivvOdnoCZ4gqS6i3uHdDOgT3wtmjpZKK8CQOc/edit
+
+https://docs.google.com/document/d/1aP8ZUMx84lslJAVlSLH9H7nQXdqla_USXCBeukUOOVo/edit
+
+https://docs.google.com/document/d/10_3DzSPFQpZH2ywtoV5RFlzDLySRvTVrlYpbquEVrdo/edit?hl=ru
+
+
+<p> SQL запросы </p>
+<p>Даны таблицы, содержащие в себе информацию о студентах, преподавателях и тд
+В предоставленных документах описаны задачи и их решения:<p>
 <ol>
-  <li>сделать тест-план </li>
-  <li>подготовить тестовую документацию</li>
-  <li>провести тестирование</li>
-  <li>написать отчет о результатах тестирования</li>
+  <li>https://docs.google.com/document/d/14p3THyivvOdnoCZ4gqS6i3uHdDOgT3wtmjpZKK8CQOc/edit</li>
+  <li>https://docs.google.com/document/d/1aP8ZUMx84lslJAVlSLH9H7nQXdqla_USXCBeukUOOVo/edit</li>
+  <li>https://docs.google.com/document/d/10_3DzSPFQpZH2ywtoV5RFlzDLySRvTVrlYpbquEVrdo/edit?hl=ru</li>
 </ol>
-
-<p>Как решала(-а): краткое описание решения (автореферат)</p>
-
->  <a href="https://fogen.notion.site/fogen/1-2-Web-REST-API-Postman-5f1700d11e1840b2a4e244b38cb0190f">Ссылка на проект</a>
->   (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
-
-<p>Выводы (итоги):<p>
-<ol>
-  <li>Итог №1</li>
-  <li>Итог №2</li>
-</ol>
-<br> 
-
-<p> Проект 3: тест приложения Skyeng для изучения английского языка</p>
-<p>Что нужно было сделать:<p>
-<ol>
-  <li>сделать тест-план </li>
-  <li>подготовить анализ требований (вопросы к требованиям)</li>
-  <li>подготовить тестовую документацию к ситуациям и видеопрактике (чек-листы или тест-кейсы)</li>
-  <li>провести анализ выбора устройства</li>
-  <li>подготовить отчет о тестировании (со ссылками на баг-репорты, если они найдены)</li>
-</ol>
-
-<p>Как решала(-а): краткое описание решения (автореферат)</p>
-
-> <a href="https://testqa35.atlassian.net/wiki/spaces/MP/pages/33272/EX1+1](https://fogen.notion.site/fogen/3-Mobile-Charles-044a1edfbda44d10bd029acae08e005e">Ссылка на проект</a>
->  (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
-
-<p>Выводы (итоги):<p>
-<ol>
-  <li>Итог №1</li>
-  <li>Итог №2</li>
-</ol>
-
-<br> 
-
-
-<p>Проект 4: тест веб-приложения для учителей от Skyeng </p> 
-<p>Что нужно было сделать:<p>
-<ol>
-  <li>сделать тест-план </li>
-  <li>подготовить тестовую документацию</li>
-  <li>провести тестирование</li>
-  <li>написать отчет о результатах тестирования</li>
-</ol>
-
-<p>Как решала(-а): краткое описание решения (автореферат)</p> 
-
-> <a href="https://www.example.com/my great page](https://eff.org](https://fogen.notion.site/fogen/27-05-22-12-22-QA-Engineer-82f93b5a6fe3444ab02f9ef1d6918218">Ссылка на проект</a>
->  (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
-
-<p>Выводы (итоги):<p>
-<ol>
-  <li>Итог №1</li>
-  <li>Итог №2</li>
-</ol>
-
-<br> 
 
 
 ## Контактная информация
-- Email: name@email.com
-- LinkedIn: https://www.linkedin.com/in/username/
-- Личный сайт: https://www.username.com
+- Email: vadimtchmutin@yandex.ru
