@@ -48,21 +48,6 @@ Smoke-тестирование
    <li>Тест план - https://report-vadim.atlassian.net/l/cp/H0dQ71gc</li>
     <li>Отчет о тестировании - https://report-vadim.atlassian.net/l/cp/7sdZt2s8</li>
 </ol>
-<br> 
-
-<br> 
-
-
-SQL
-
-Даны таблицы, содержащие в себе информацию о студентах, преподавателях и тд
-В предоставленных документах описаны задачи и их решения:
-
-https://docs.google.com/document/d/14p3THyivvOdnoCZ4gqS6i3uHdDOgT3wtmjpZKK8CQOc/edit
-
-https://docs.google.com/document/d/1aP8ZUMx84lslJAVlSLH9H7nQXdqla_USXCBeukUOOVo/edit
-
-https://docs.google.com/document/d/10_3DzSPFQpZH2ywtoV5RFlzDLySRvTVrlYpbquEVrdo/edit?hl=ru
 
 
 <p> SQL запросы </p>
