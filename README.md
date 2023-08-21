@@ -26,7 +26,7 @@
   <li>написать отчет о результатах тестирования</li>
 </ol>
 
-<p>Как решала(-а): краткое описание решения (автореферат)<p>
+<p>Как решал: краткое описание решения <p>
 
 >Тестирование проводилось
 Функциональное 
@@ -35,7 +35,7 @@
 Тест-кейс: https://app.qase.io/project/CW
 Smoke-тестирование
 Тест-кейс: https://app.qase.io/project/CW
-Тестирование API :<a href=" https://drive.google.com/file/d/1IpGvoadZqjxRBD_Hw3Ra-4ZvWRXDq562/view?usp=sharing"></a>
+<br>Тестирование API :<a href=" https://drive.google.com/file/d/1IpGvoadZqjxRBD_Hw3Ra-4ZvWRXDq562/view?usp=sharing"></a></br>
 > <a href="https://drive.google.com/file/d/1fnFNRd53ymWRkVKAQjyL7xVeXkBrF-Bs/view?usp=sharing)">Ссылка на проект</a>
 
 > <p> логин: vadimchmutin98@gmail.com </p>
