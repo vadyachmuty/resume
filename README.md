@@ -28,15 +28,22 @@
 
 <p>Как решал: краткое описание решения <p>
 
->Тестирование проводилось
-Функциональное 
-Чек-лист: https://chlist.sitechco.ru/project/40778/checklist/1447598/details
-Приемочное тестирование
-Тест-кейс: https://app.qase.io/project/CW
-Smoke-тестирование
-Тест-кейс: https://app.qase.io/project/CW
-<br>Тестирование API :<a href=" https://drive.google.com/file/d/1IpGvoadZqjxRBD_Hw3Ra-4ZvWRXDq562/view?usp=sharing"></a></br>
-> <a href="https://drive.google.com/file/d/1fnFNRd53ymWRkVKAQjyL7xVeXkBrF-Bs/view?usp=sharing)">Ссылка на проект</a>
+<p>Тестирование проводилось:</p>
+<ol>
+<li>Функциональное 
+Чек-лист: https://chlist.sitechco.ru/project/40778/checklist/1447598/details</li>
+<li>Приемочное тестирование
+Тест-кейс: https://app.qase.io/project/CW</li>
+<li>Smoke-тестирование
+Тест-кейс: https://app.qase.io/project/CW</li>
+<li>Тестирование API :<a href=" https://drive.google.com/file/d/1IpGvoadZqjxRBD_Hw3Ra-4ZvWRXDq562/view?usp=sharing"></a></li>
+ <li><a href="https://drive.google.com/file/d/1fnFNRd53ymWRkVKAQjyL7xVeXkBrF-Bs/view?usp=sharing)">Ссылка на проект</a></li> 
+</ol>
+
+
+
+
+> 
 
 > <p> логин: vadimchmutin98@gmail.com </p>
 > <p> пароль: 7058042401 </p>
